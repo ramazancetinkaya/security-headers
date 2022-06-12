@@ -1,5 +1,5 @@
 # security-headers
-Security Headers (.htaccess)
+Security Headers Documentation
 
 ## Overview
 Adding security headers to your .htaccess file can help to secure your website and its data. This article explains how to add the following security headers.
